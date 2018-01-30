@@ -27,4 +27,8 @@ npm run e2e
 npm test
 ```
 
+``` bash
+target is study vue-cli ,main is node and webpack part
+```
+
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
